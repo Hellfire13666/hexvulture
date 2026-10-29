@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+*cookies*
+*session*
+*credentials*
+*.sqlite
+*.tar.gz
+*.zip
+private/
+reports/
+*.txt
+.venv/
