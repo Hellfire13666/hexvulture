@@ -1,3 +1,7 @@
+![HEXVULTURE official repository artwork](assets/hexvulture-repository-cover.webp)
+
+[![Repository visits](https://hits.sh/github.com/Hellfire13666/hexvulture.svg?label=views&style=flat-square&color=ff1493)](https://hits.sh/github.com/Hellfire13666/hexvulture/)
+
 # HEXVULTURE
 
 GlitchByte Phantom Labs
